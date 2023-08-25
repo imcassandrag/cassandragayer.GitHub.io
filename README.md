@@ -8,6 +8,7 @@ by Chris Whong
 > Created by Chris Whong, the NYC Taxis interactive website showcases the route patterns and customer data from a taxi driver back in 2013. While based in New York, this system would be significantly utilized anywhere with traffic congestion. For example, utilizing a program like this on various days with various taxi/uber's it would allow 
 
 ---
+---
       
 ### The Evolution of Data Products 
 by Mike Loukides
