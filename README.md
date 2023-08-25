@@ -5,7 +5,7 @@
       - lksjdfkljds
 
 NYC Taxis: A Day in the Life - A Data Visualization by Chris Whong
-[NYC Taxi URL](https://chriswhong.github.io/nyctaxi/)
+[Website URL](https://chriswhong.github.io/nyctaxi/)
       
 ##### **2.** 
       - sdf
