@@ -1,5 +1,5 @@
 
-# **Assignment 1:**
+# **Web Exercise 1:**
 
 ### NYC Taxis: A Day in the Life - A Data Visualization 
 by Chris Whong
