@@ -11,7 +11,7 @@ Created by Chris Whong, the NYC Taxis interactive website showcases the route pa
 ### The Evolution of Data Products by Mike Loukides
 [Book URL](https://www.oreilly.com/radar/evolution-of-data-products/)
 
-      - sdf
+Author Mike Loukides writes about the evolution of data products, from virtual to in-person. 
 
 
 
