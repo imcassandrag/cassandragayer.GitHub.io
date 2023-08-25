@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: cassandragayer
+description: BDA 594 (Fall 2023)
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-hacker
