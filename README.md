@@ -5,9 +5,9 @@
 by Chris Whong
 [Website URL](https://chriswhong.github.io/nyctaxi/)
 
-> Conducted in 2013 by Chris Whong, the NYC Taxis: A Day in the Life website follows random yellow-cab taxi drivers during a 24-hour period. Utilizing data from the Taxi and Limousine Commission, Whong creates a visualization of the route patterns and pay of New York City taxi drivers. Some potential applications from this dataset include the analysis of New York traffic patterns, carpooling habits, and active timeframes for taxi usage. This analysis can help assess better traffic solutions, such as providing more taxi drivers during high usage times or creating incentives for carpooling. 
----
+> Conducted in 2013 by Chris Whong, the NYC Taxis: A Day in the Life website follows random yellow-cab taxi drivers during a 24-hour period. Utilizing data from the Taxi and Limousine Commission, Whong creates a visualization of the route patterns and pay of New York City taxi drivers. Some potential applications from this dataset include the analysis of New York traffic patterns, carpooling habits, and active timeframes for taxi usage. This analysis can help assess better traffic solutions, such as providing more taxi drivers during high usage times or creating incentives for carpooling.
 
+---
       
 ### Networks, Crowds, and Markets: Reasoning About a Highly Connected World
 by David Easley and Jon Kleinberg
