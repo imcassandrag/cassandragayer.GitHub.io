@@ -10,9 +10,9 @@ by Chris Whong
 ---
 
       
-### The Evolution of Data Products 
-by Mike Loukides
-[Book URL](https://www.oreilly.com/radar/evolution-of-data-products/)
+### Networks, Crowds, and Markets: Reasoning About a Highly Connected World
+by David Easley and Jon Kleinberg
+[Book URL](https://www.cs.cornell.edu/home/kleinber/networks-book/)
 
 > Author Mike Loukides writes about the evolution of data products, from virtual to in-person. 
 
